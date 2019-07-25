@@ -1,4 +1,4 @@
-### DAY 1
+## DAY 1
 
 - [X] Your assignment is to implement a basic hash table in the `basic_hash_table` directory. You should be able to insert, read, and delete elements from the hash table. You do not need to handle collisions but should print a warning when you are overwriting an existing value.
 
