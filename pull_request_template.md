@@ -1,10 +1,10 @@
-### DAY 1
+## DAY 1
 
-- [ ] Your assignment is to implement a basic hash table in the `basic_hash_table` directory. You should be able to insert, read, and delete elements from the hash table. You do not need to handle collisions but should print a warning when you are overwriting an existing value.
+- [X] Your assignment is to implement a basic hash table in the `basic_hash_table` directory. You should be able to insert, read, and delete elements from the hash table. You do not need to handle collisions but should print a warning when you are overwriting an existing value.
 
-- [ ] Run your code by typing navigating to the directory then typing `python3 b_hashtables.py` in the terminal.
+- [X] Run your code by typing navigating to the directory then typing `python3 b_hashtables.py` in the terminal.
 
-- [ ] Run tests by typing `python3 b_hashtables_tests.py`.
+- [X] Run tests by typing `python3 b_hashtables_tests.py`.
 
 ## DAY 2
 
