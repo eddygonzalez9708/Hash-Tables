@@ -23,7 +23,7 @@ def hash(string, max):
   hash = 5381
   
   for character in string:
-    hash = (( hash << 2) + hash) + ord(character)
+    hash = ((hash << 5) + hash) + ord(character)
    
   return hash % max
 

@@ -1,4 +1,5 @@
 import pytest
+
 from arrays import (
   Array,
   resize_array,
