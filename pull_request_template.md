@@ -14,6 +14,8 @@
 
 - [X] Run tests by typing `python3 r_hashtables_tests.py`.
 
+### test`
+
 ## STRETCH GOALS
 
 - [ ] Update your HashTable to automatically double in size when it grows past a load factor of 0.7.
